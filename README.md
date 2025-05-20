@@ -5,7 +5,7 @@ Sou um desenvolvedor fullstack com experiência em diversas tecnologias, incluin
 - **Linguagens:** C++, Java, JavaScript, PL/SQL, PHP
 - **Frontend:** HTML, CSS,JAVASCRIPT
 - **Bancos de Dados:** PostgreSQL, MySQL
-- **Outras Tecnologias:** Metabase, SOUMV, TOTVS, PACS, DICOM, Redes
+- **Outras Tecnologias:** Metabase, PACS, DICOM, Redes
 
 ### 🚀 Tecnologias e Ferramentas:
 
